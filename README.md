@@ -122,16 +122,16 @@ However, attempts were made to leave error signals and selections clearly visibl
 <div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
 
 ## **Goldstone** (10 skins): Deep blue flat UI and Desatured Token Colors
-<center> <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-turquenite-preview.png" title="Go to Apophis Monolith - Goldstone - Turquenite" target="github"><img src="./_gfx/apophis-monolith-goldstone-turquenite-preview.png"  alt="Apophis Monolith - Goldstone - Turquenite"></a>
+<center> <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-limestone-preview.png" title="Go to Apophis Monolith - Goldstone - Limestone" target="github"><img src="./_gfx/apophis-monolith-goldstone-limestone-preview.png"  alt="Apophis Monolith - Goldstone - Limestone"></a>
 </center>
 
-<div>Goldstone - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-turquenite-preview.png" title="Go to Apophis Monolith - Goldstone - Turquenite" target="github">Turquenite</a> 
+<div>Goldstone - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-limestone-preview.png" title="Go to Apophis Monolith - Goldstone - Limestone" target="github">Limestone</a> 
 </div>
 
 
 
 <center>
-<table>
+<table style="max-width:960px;">
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-amethyst-preview.png" title="Go to Apophis Monolith - Goldstone - Amethyst" target="github"><img src="./_gfx/apophis-monolith-goldstone-amethyst-preview.png"  alt="Apophis Monolith - Goldstone - Amethyst"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-aquamarine-preview.png" title="Go to Apophis Monolith - Goldstone - Aquamarine" target="github"><img src="./_gfx/apophis-monolith-goldstone-aquamarine-preview.png"  alt="Apophis Monolith - Goldstone - Aquamarine"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-beryl-preview.png" title="Go to Apophis Monolith - Goldstone - Beryl" target="github"><img src="./_gfx/apophis-monolith-goldstone-beryl-preview.png"  alt="Apophis Monolith - Goldstone - Beryl"></a>
@@ -142,19 +142,19 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Goldstone - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-beryl-preview.png" title="Go to Apophis Monolith - Goldstone - Beryl" target="github">Beryl</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Goldstone - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-howlite-preview.png" title="Go to Apophis Monolith - Goldstone - Howlite" target="github">Howlite</a> 
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-limestone-preview.png" title="Go to Apophis Monolith - Goldstone - Limestone" target="github"><img src="./_gfx/apophis-monolith-goldstone-limestone-preview.png"  alt="Apophis Monolith - Goldstone - Limestone"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-morion-preview.png" title="Go to Apophis Monolith - Goldstone - Morion" target="github"><img src="./_gfx/apophis-monolith-goldstone-morion-preview.png"  alt="Apophis Monolith - Goldstone - Morion"></a>
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-morion-preview.png" title="Go to Apophis Monolith - Goldstone - Morion" target="github"><img src="./_gfx/apophis-monolith-goldstone-morion-preview.png"  alt="Apophis Monolith - Goldstone - Morion"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-obsidian-preview.png" title="Go to Apophis Monolith - Goldstone - Obsidian" target="github"><img src="./_gfx/apophis-monolith-goldstone-obsidian-preview.png"  alt="Apophis Monolith - Goldstone - Obsidian"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-quartz-preview.png" title="Go to Apophis Monolith - Goldstone - Quartz" target="github"><img src="./_gfx/apophis-monolith-goldstone-quartz-preview.png"  alt="Apophis Monolith - Goldstone - Quartz"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-sulfur-preview.png" title="Go to Apophis Monolith - Goldstone - Sulfur" target="github"><img src="./_gfx/apophis-monolith-goldstone-sulfur-preview.png"  alt="Apophis Monolith - Goldstone - Sulfur"></a>
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Goldstone - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-limestone-preview.png" title="Go to Apophis Monolith - Goldstone - Limestone" target="github">Limestone</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Goldstone - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-morion-preview.png" title="Go to Apophis Monolith - Goldstone - Morion" target="github">Morion</a> 
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Goldstone - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-morion-preview.png" title="Go to Apophis Monolith - Goldstone - Morion" target="github">Morion</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Goldstone - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-obsidian-preview.png" title="Go to Apophis Monolith - Goldstone - Obsidian" target="github">Obsidian</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Goldstone - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-quartz-preview.png" title="Go to Apophis Monolith - Goldstone - Quartz" target="github">Quartz</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Goldstone - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-sulfur-preview.png" title="Go to Apophis Monolith - Goldstone - Sulfur" target="github">Sulfur</a> 
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-sulfur-preview.png" title="Go to Apophis Monolith - Goldstone - Sulfur" target="github"><img src="./_gfx/apophis-monolith-goldstone-sulfur-preview.png"  alt="Apophis Monolith - Goldstone - Sulfur"></a>
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-turquenite-preview.png" title="Go to Apophis Monolith - Goldstone - Turquenite" target="github"><img src="./_gfx/apophis-monolith-goldstone-turquenite-preview.png"  alt="Apophis Monolith - Goldstone - Turquenite"></a>
 </td><td colspan="3" rowspan="2" width="75%"></td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Goldstone - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-sulfur-preview.png" title="Go to Apophis Monolith - Goldstone - Sulfur" target="github">Sulfur</a> 
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Goldstone - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-goldstone-turquenite-preview.png" title="Go to Apophis Monolith - Goldstone - Turquenite" target="github">Turquenite</a> 
 </td></tr>
 
 </table>
@@ -164,16 +164,16 @@ However, attempts were made to leave error signals and selections clearly visibl
 <div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
 
 ## **Heliotrope** (10 skins): Petrol Blue flat UI and Desatured Token Colors
-<center> <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-heliotrope-limestone-preview.png" title="Go to Apophis Monolith - Heliotrope - Limestone" target="github"><img src="./_gfx/apophis-monolith-heliotrope-limestone-preview.png"  alt="Apophis Monolith - Heliotrope - Limestone"></a>
+<center> <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-heliotrope-quartz-preview.png" title="Go to Apophis Monolith - Heliotrope - Quartz" target="github"><img src="./_gfx/apophis-monolith-heliotrope-quartz-preview.png"  alt="Apophis Monolith - Heliotrope - Quartz"></a>
 </center>
 
-<div>Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-heliotrope-limestone-preview.png" title="Go to Apophis Monolith - Heliotrope - Limestone" target="github">Limestone</a> 
+<div>Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-heliotrope-quartz-preview.png" title="Go to Apophis Monolith - Heliotrope - Quartz" target="github">Quartz</a> 
 </div>
 
 
 
 <center>
-<table>
+<table style="max-width:960px;">
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-heliotrope-amethyst-preview.png" title="Go to Apophis Monolith - Heliotrope - Amethyst" target="github"><img src="./_gfx/apophis-monolith-heliotrope-amethyst-preview.png"  alt="Apophis Monolith - Heliotrope - Amethyst"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-heliotrope-aquamarine-preview.png" title="Go to Apophis Monolith - Heliotrope - Aquamarine" target="github"><img src="./_gfx/apophis-monolith-heliotrope-aquamarine-preview.png"  alt="Apophis Monolith - Heliotrope - Aquamarine"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-heliotrope-beryl-preview.png" title="Go to Apophis Monolith - Heliotrope - Beryl" target="github"><img src="./_gfx/apophis-monolith-heliotrope-beryl-preview.png"  alt="Apophis Monolith - Heliotrope - Beryl"></a>
@@ -184,14 +184,14 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-heliotrope-beryl-preview.png" title="Go to Apophis Monolith - Heliotrope - Beryl" target="github">Beryl</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-heliotrope-howlite-preview.png" title="Go to Apophis Monolith - Heliotrope - Howlite" target="github">Howlite</a> 
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-heliotrope-morion-preview.png" title="Go to Apophis Monolith - Heliotrope - Morion" target="github"><img src="./_gfx/apophis-monolith-heliotrope-morion-preview.png"  alt="Apophis Monolith - Heliotrope - Morion"></a>
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-heliotrope-limestone-preview.png" title="Go to Apophis Monolith - Heliotrope - Limestone" target="github"><img src="./_gfx/apophis-monolith-heliotrope-limestone-preview.png"  alt="Apophis Monolith - Heliotrope - Limestone"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-heliotrope-morion-preview.png" title="Go to Apophis Monolith - Heliotrope - Morion" target="github"><img src="./_gfx/apophis-monolith-heliotrope-morion-preview.png"  alt="Apophis Monolith - Heliotrope - Morion"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-heliotrope-obsidian-preview.png" title="Go to Apophis Monolith - Heliotrope - Obsidian" target="github"><img src="./_gfx/apophis-monolith-heliotrope-obsidian-preview.png"  alt="Apophis Monolith - Heliotrope - Obsidian"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-heliotrope-quartz-preview.png" title="Go to Apophis Monolith - Heliotrope - Quartz" target="github"><img src="./_gfx/apophis-monolith-heliotrope-quartz-preview.png"  alt="Apophis Monolith - Heliotrope - Quartz"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-heliotrope-sulfur-preview.png" title="Go to Apophis Monolith - Heliotrope - Sulfur" target="github"><img src="./_gfx/apophis-monolith-heliotrope-sulfur-preview.png"  alt="Apophis Monolith - Heliotrope - Sulfur"></a>
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-heliotrope-morion-preview.png" title="Go to Apophis Monolith - Heliotrope - Morion" target="github">Morion</a> 
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-heliotrope-limestone-preview.png" title="Go to Apophis Monolith - Heliotrope - Limestone" target="github">Limestone</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-heliotrope-morion-preview.png" title="Go to Apophis Monolith - Heliotrope - Morion" target="github">Morion</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-heliotrope-obsidian-preview.png" title="Go to Apophis Monolith - Heliotrope - Obsidian" target="github">Obsidian</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-heliotrope-quartz-preview.png" title="Go to Apophis Monolith - Heliotrope - Quartz" target="github">Quartz</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-heliotrope-sulfur-preview.png" title="Go to Apophis Monolith - Heliotrope - Sulfur" target="github">Sulfur</a> 
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-heliotrope-turquenite-preview.png" title="Go to Apophis Monolith - Heliotrope - Turquenite" target="github"><img src="./_gfx/apophis-monolith-heliotrope-turquenite-preview.png"  alt="Apophis Monolith - Heliotrope - Turquenite"></a>
@@ -215,7 +215,7 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 <center>
-<table>
+<table style="max-width:960px;">
 
 </table>
 </center>
@@ -224,35 +224,35 @@ However, attempts were made to leave error signals and selections clearly visibl
 <div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
 
 ## **Onyx** (10 skins): Flat Grayed UI and Desatured Token Colors
-<center> <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-sulfur-preview.png" title="Go to Apophis Monolith - Onyx - Sulfur" target="github"><img src="./_gfx/apophis-monolith-onyx-sulfur-preview.png"  alt="Apophis Monolith - Onyx - Sulfur"></a>
+<center> <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-aquamarine-preview.png" title="Go to Apophis Monolith - Onyx - Aquamarine" target="github"><img src="./_gfx/apophis-monolith-onyx-aquamarine-preview.png"  alt="Apophis Monolith - Onyx - Aquamarine"></a>
 </center>
 
-<div>Onyx - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-sulfur-preview.png" title="Go to Apophis Monolith - Onyx - Sulfur" target="github">Sulfur</a> 
+<div>Onyx - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-aquamarine-preview.png" title="Go to Apophis Monolith - Onyx - Aquamarine" target="github">Aquamarine</a> 
 </div>
 
 
 
 <center>
-<table>
+<table style="max-width:960px;">
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-amethyst-preview.png" title="Go to Apophis Monolith - Onyx - Amethyst" target="github"><img src="./_gfx/apophis-monolith-onyx-amethyst-preview.png"  alt="Apophis Monolith - Onyx - Amethyst"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-aquamarine-preview.png" title="Go to Apophis Monolith - Onyx - Aquamarine" target="github"><img src="./_gfx/apophis-monolith-onyx-aquamarine-preview.png"  alt="Apophis Monolith - Onyx - Aquamarine"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-beryl-preview.png" title="Go to Apophis Monolith - Onyx - Beryl" target="github"><img src="./_gfx/apophis-monolith-onyx-beryl-preview.png"  alt="Apophis Monolith - Onyx - Beryl"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-howlite-preview.png" title="Go to Apophis Monolith - Onyx - Howlite" target="github"><img src="./_gfx/apophis-monolith-onyx-howlite-preview.png"  alt="Apophis Monolith - Onyx - Howlite"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-limestone-preview.png" title="Go to Apophis Monolith - Onyx - Limestone" target="github"><img src="./_gfx/apophis-monolith-onyx-limestone-preview.png"  alt="Apophis Monolith - Onyx - Limestone"></a>
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;">Onyx - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-amethyst-preview.png" title="Go to Apophis Monolith - Onyx - Amethyst" target="github">Amethyst</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Onyx - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-aquamarine-preview.png" title="Go to Apophis Monolith - Onyx - Aquamarine" target="github">Aquamarine</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Onyx - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-beryl-preview.png" title="Go to Apophis Monolith - Onyx - Beryl" target="github">Beryl</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Onyx - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-howlite-preview.png" title="Go to Apophis Monolith - Onyx - Howlite" target="github">Howlite</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Onyx - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-limestone-preview.png" title="Go to Apophis Monolith - Onyx - Limestone" target="github">Limestone</a> 
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-limestone-preview.png" title="Go to Apophis Monolith - Onyx - Limestone" target="github"><img src="./_gfx/apophis-monolith-onyx-limestone-preview.png"  alt="Apophis Monolith - Onyx - Limestone"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-morion-preview.png" title="Go to Apophis Monolith - Onyx - Morion" target="github"><img src="./_gfx/apophis-monolith-onyx-morion-preview.png"  alt="Apophis Monolith - Onyx - Morion"></a>
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-morion-preview.png" title="Go to Apophis Monolith - Onyx - Morion" target="github"><img src="./_gfx/apophis-monolith-onyx-morion-preview.png"  alt="Apophis Monolith - Onyx - Morion"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-obsidian-preview.png" title="Go to Apophis Monolith - Onyx - Obsidian" target="github"><img src="./_gfx/apophis-monolith-onyx-obsidian-preview.png"  alt="Apophis Monolith - Onyx - Obsidian"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-quartz-preview.png" title="Go to Apophis Monolith - Onyx - Quartz" target="github"><img src="./_gfx/apophis-monolith-onyx-quartz-preview.png"  alt="Apophis Monolith - Onyx - Quartz"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-sulfur-preview.png" title="Go to Apophis Monolith - Onyx - Sulfur" target="github"><img src="./_gfx/apophis-monolith-onyx-sulfur-preview.png"  alt="Apophis Monolith - Onyx - Sulfur"></a>
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Onyx - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-limestone-preview.png" title="Go to Apophis Monolith - Onyx - Limestone" target="github">Limestone</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Onyx - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-morion-preview.png" title="Go to Apophis Monolith - Onyx - Morion" target="github">Morion</a> 
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Onyx - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-morion-preview.png" title="Go to Apophis Monolith - Onyx - Morion" target="github">Morion</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Onyx - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-obsidian-preview.png" title="Go to Apophis Monolith - Onyx - Obsidian" target="github">Obsidian</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Onyx - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-quartz-preview.png" title="Go to Apophis Monolith - Onyx - Quartz" target="github">Quartz</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Onyx - <a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-sulfur-preview.png" title="Go to Apophis Monolith - Onyx - Sulfur" target="github">Sulfur</a> 
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-monolith/tree/master/_gfx/apophis-monolith-onyx-turquenite-preview.png" title="Go to Apophis Monolith - Onyx - Turquenite" target="github"><img src="./_gfx/apophis-monolith-onyx-turquenite-preview.png"  alt="Apophis Monolith - Onyx - Turquenite"></a>
 </td><td colspan="3" rowspan="2" width="75%"></td></tr>
@@ -2161,7 +2161,7 @@ See full [Changelog](https://marketplace.visualstudio.com/items/nicola-granata.a
 
 
 
-**Version 1.1.154**
+**Version 1.1.155**
 - [`Theme`] Added `tab.lastPinnedBorder` color (VSCode 1.50);
 - [`Theme`] Fix some UI and Token colors;
 - [`Readme`] Fix some issue and improved Fonts Data Sheet table readability. Removed Font Weight from columns to prevent a partial cut-out of Fonts Table in Marketplace;
