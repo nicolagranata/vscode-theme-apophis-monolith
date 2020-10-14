@@ -1,0 +1,233 @@
+{
+    "version": "1.1.152",
+    "publisher": "nicola-granata",
+    "license": "MIT",
+    "schema": "vscode://schemas/color-theme",
+    "author": {
+        "name": "Nicola Granata",
+        "email": "vscode.extensions@daemoncms.com",
+        "url": "https://github.com/nicolagranata"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "displayName": "Apophis Monolith Theme",
+    "icon": "_gfx/apophis-monolith-icon.png",
+    "description": "Apophis token colors in different intensities and on different dark backgrounds to reduce eye strain.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nicolagranata/vscode-theme-apophis-monolith.git",
+        "clean_url": "https://github.com/nicolagranata/vscode-theme-apophis-monolith"
+    },
+    "keywords": [
+        "apophis",
+        "dark background",
+        "dark theme",
+        "low blue light",
+        "low contrast",
+        "json",
+        "css",
+        "eye strain",
+        "html",
+        "php",
+        "javascript"
+    ],
+    "galleryBanner": {
+        "color": "#191d1f",
+        "theme": "dark"
+    },
+    "name": "apophis-monolith",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Apophis Monolith - Goldstone - Amethyst",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-goldstone-amethyst",
+                "path": "./themes/apophis-monolith-goldstone-amethyst-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Goldstone - Aquamarine",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-goldstone-aquamarine",
+                "path": "./themes/apophis-monolith-goldstone-aquamarine-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Goldstone - Beryl",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-goldstone-beryl",
+                "path": "./themes/apophis-monolith-goldstone-beryl-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Goldstone - Howlite",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-goldstone-howlite",
+                "path": "./themes/apophis-monolith-goldstone-howlite-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Goldstone - Limestone",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-goldstone-limestone",
+                "path": "./themes/apophis-monolith-goldstone-limestone-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Goldstone - Morion",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-goldstone-morion",
+                "path": "./themes/apophis-monolith-goldstone-morion-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Goldstone - Obsidian",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-goldstone-obsidian",
+                "path": "./themes/apophis-monolith-goldstone-obsidian-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Goldstone - Quartz",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-goldstone-quartz",
+                "path": "./themes/apophis-monolith-goldstone-quartz-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Goldstone - Sulfur",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-goldstone-sulfur",
+                "path": "./themes/apophis-monolith-goldstone-sulfur-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Goldstone - Turquenite",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-goldstone-turquenite",
+                "path": "./themes/apophis-monolith-goldstone-turquenite-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Heliotrope - Amethyst",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-heliotrope-amethyst",
+                "path": "./themes/apophis-monolith-heliotrope-amethyst-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Heliotrope - Aquamarine",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-heliotrope-aquamarine",
+                "path": "./themes/apophis-monolith-heliotrope-aquamarine-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Heliotrope - Beryl",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-heliotrope-beryl",
+                "path": "./themes/apophis-monolith-heliotrope-beryl-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Heliotrope - Howlite",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-heliotrope-howlite",
+                "path": "./themes/apophis-monolith-heliotrope-howlite-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Heliotrope - Limestone",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-heliotrope-limestone",
+                "path": "./themes/apophis-monolith-heliotrope-limestone-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Heliotrope - Morion",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-heliotrope-morion",
+                "path": "./themes/apophis-monolith-heliotrope-morion-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Heliotrope - Obsidian",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-heliotrope-obsidian",
+                "path": "./themes/apophis-monolith-heliotrope-obsidian-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Heliotrope - Quartz",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-heliotrope-quartz",
+                "path": "./themes/apophis-monolith-heliotrope-quartz-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Heliotrope - Sulfur",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-heliotrope-sulfur",
+                "path": "./themes/apophis-monolith-heliotrope-sulfur-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Heliotrope - Turquenite",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-heliotrope-turquenite",
+                "path": "./themes/apophis-monolith-heliotrope-turquenite-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Low Blue - Obsidian",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-lowblue-obsidian",
+                "path": "./themes/apophis-monolith-lowblue-obsidian-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Onyx - Amethyst",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-onyx-amethyst",
+                "path": "./themes/apophis-monolith-onyx-amethyst-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Onyx - Aquamarine",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-onyx-aquamarine",
+                "path": "./themes/apophis-monolith-onyx-aquamarine-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Onyx - Beryl",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-onyx-beryl",
+                "path": "./themes/apophis-monolith-onyx-beryl-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Onyx - Howlite",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-onyx-howlite",
+                "path": "./themes/apophis-monolith-onyx-howlite-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Onyx - Limestone",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-onyx-limestone",
+                "path": "./themes/apophis-monolith-onyx-limestone-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Onyx - Morion",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-onyx-morion",
+                "path": "./themes/apophis-monolith-onyx-morion-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Onyx - Obsidian",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-onyx-obsidian",
+                "path": "./themes/apophis-monolith-onyx-obsidian-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Onyx - Quartz",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-onyx-quartz",
+                "path": "./themes/apophis-monolith-onyx-quartz-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Onyx - Sulfur",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-onyx-sulfur",
+                "path": "./themes/apophis-monolith-onyx-sulfur-color-theme.json"
+            },
+            {
+                "label": "Apophis Monolith - Onyx - Turquenite",
+                "uiTheme": "vs-dark",
+                "theme_id": "apophis-monolith-onyx-turquenite",
+                "path": "./themes/apophis-monolith-onyx-turquenite-color-theme.json"
+            }
+        ]
+    }
+}
