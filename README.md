@@ -249,9 +249,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Apophis Monolith - Goldstone - Limestone](./_gfx/apophis-monolith-goldstone-limestone-preview.png)](./_gfx/apophis-monolith-goldstone-limestone-preview.png)
+[![Apophis Monolith - Goldstone - Beryl](./_gfx/apophis-monolith-goldstone-beryl-preview.png)](./_gfx/apophis-monolith-goldstone-beryl-preview.png)
 
-[Limestone](./_gfx/apophis-monolith-goldstone-limestone-preview.png) <br>Goldstone
+[Beryl](./_gfx/apophis-monolith-goldstone-beryl-preview.png) <br>Goldstone
 
 
 <table>
@@ -270,23 +270,23 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td>
 <td align="center" valign="top" >
 
-[![Apophis Monolith - Goldstone - Beryl](./_gfx/apophis-monolith-goldstone-beryl-preview.png)](./_gfx/apophis-monolith-goldstone-beryl-preview.png)
-
-[Beryl](./_gfx/apophis-monolith-goldstone-beryl-preview.png) <br>Goldstone
-</td>
-<td align="center" valign="top" >
-
 [![Apophis Monolith - Goldstone - Hearthstone](./_gfx/apophis-monolith-goldstone-hearthstone-preview.png)](./_gfx/apophis-monolith-goldstone-hearthstone-preview.png)
 
 [Hearthstone](./_gfx/apophis-monolith-goldstone-hearthstone-preview.png) <br>Goldstone
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" >
 
 [![Apophis Monolith - Goldstone - Howlite](./_gfx/apophis-monolith-goldstone-howlite-preview.png)](./_gfx/apophis-monolith-goldstone-howlite-preview.png)
 
 [Howlite](./_gfx/apophis-monolith-goldstone-howlite-preview.png) <br>Goldstone
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" >
+
+[![Apophis Monolith - Goldstone - Limestone](./_gfx/apophis-monolith-goldstone-limestone-preview.png)](./_gfx/apophis-monolith-goldstone-limestone-preview.png)
+
+[Limestone](./_gfx/apophis-monolith-goldstone-limestone-preview.png) <br>Goldstone
 </td>
 <td align="center" valign="top" >
 
@@ -347,13 +347,19 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Apophis Monolith - Goldstone HCUI - Amethyst](./_gfx/apophis-monolith-goldstone-hcui-amethyst-preview.png)](./_gfx/apophis-monolith-goldstone-hcui-amethyst-preview.png)
+[![Apophis Monolith - Goldstone HCUI - Howlite](./_gfx/apophis-monolith-goldstone-hcui-howlite-preview.png)](./_gfx/apophis-monolith-goldstone-hcui-howlite-preview.png)
 
-[Amethyst](./_gfx/apophis-monolith-goldstone-hcui-amethyst-preview.png) <br>Goldstone HCUI
+[Howlite](./_gfx/apophis-monolith-goldstone-hcui-howlite-preview.png) <br>Goldstone HCUI
 
 
 <table>
 <tr>
+<td align="center" valign="top" >
+
+[![Apophis Monolith - Goldstone HCUI - Amethyst](./_gfx/apophis-monolith-goldstone-hcui-amethyst-preview.png)](./_gfx/apophis-monolith-goldstone-hcui-amethyst-preview.png)
+
+[Amethyst](./_gfx/apophis-monolith-goldstone-hcui-amethyst-preview.png) <br>Goldstone HCUI
+</td>
 <td align="center" valign="top" >
 
 [![Apophis Monolith - Goldstone HCUI - Aquamarine](./_gfx/apophis-monolith-goldstone-hcui-aquamarine-preview.png)](./_gfx/apophis-monolith-goldstone-hcui-aquamarine-preview.png)
@@ -371,12 +377,6 @@ However, attempts were made to leave error signals and selections clearly visibl
 [![Apophis Monolith - Goldstone HCUI - Hearthstone](./_gfx/apophis-monolith-goldstone-hcui-hearthstone-preview.png)](./_gfx/apophis-monolith-goldstone-hcui-hearthstone-preview.png)
 
 [Hearthstone](./_gfx/apophis-monolith-goldstone-hcui-hearthstone-preview.png) <br>Goldstone HCUI
-</td>
-<td align="center" valign="top" >
-
-[![Apophis Monolith - Goldstone HCUI - Howlite](./_gfx/apophis-monolith-goldstone-hcui-howlite-preview.png)](./_gfx/apophis-monolith-goldstone-hcui-howlite-preview.png)
-
-[Howlite](./_gfx/apophis-monolith-goldstone-hcui-howlite-preview.png) <br>Goldstone HCUI
 </td>
 </tr>
 <tr>
@@ -445,9 +445,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Apophis Monolith - Heliotrope - Sulfur](./_gfx/apophis-monolith-heliotrope-sulfur-preview.png)](./_gfx/apophis-monolith-heliotrope-sulfur-preview.png)
+[![Apophis Monolith - Heliotrope - Turquenite](./_gfx/apophis-monolith-heliotrope-turquenite-preview.png)](./_gfx/apophis-monolith-heliotrope-turquenite-preview.png)
 
-[Sulfur](./_gfx/apophis-monolith-heliotrope-sulfur-preview.png) <br>Heliotrope
+[Turquenite](./_gfx/apophis-monolith-heliotrope-turquenite-preview.png) <br>Heliotrope
 
 
 <table>
@@ -512,9 +512,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td>
 <td align="center" valign="top" >
 
-[![Apophis Monolith - Heliotrope - Turquenite](./_gfx/apophis-monolith-heliotrope-turquenite-preview.png)](./_gfx/apophis-monolith-heliotrope-turquenite-preview.png)
+[![Apophis Monolith - Heliotrope - Sulfur](./_gfx/apophis-monolith-heliotrope-sulfur-preview.png)](./_gfx/apophis-monolith-heliotrope-sulfur-preview.png)
 
-[Turquenite](./_gfx/apophis-monolith-heliotrope-turquenite-preview.png) <br>Heliotrope
+[Sulfur](./_gfx/apophis-monolith-heliotrope-sulfur-preview.png) <br>Heliotrope
 </td>
 <td align="center" valign="top" >
 
@@ -689,9 +689,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Apophis Monolith - Onyx - Morion](./_gfx/apophis-monolith-onyx-morion-preview.png)](./_gfx/apophis-monolith-onyx-morion-preview.png)
+[![Apophis Monolith - Onyx - Howlite](./_gfx/apophis-monolith-onyx-howlite-preview.png)](./_gfx/apophis-monolith-onyx-howlite-preview.png)
 
-[Morion](./_gfx/apophis-monolith-onyx-morion-preview.png) <br>Onyx
+[Howlite](./_gfx/apophis-monolith-onyx-howlite-preview.png) <br>Onyx
 
 
 <table>
@@ -724,15 +724,15 @@ However, attempts were made to leave error signals and selections clearly visibl
 <tr>
 <td align="center" valign="top" >
 
-[![Apophis Monolith - Onyx - Howlite](./_gfx/apophis-monolith-onyx-howlite-preview.png)](./_gfx/apophis-monolith-onyx-howlite-preview.png)
-
-[Howlite](./_gfx/apophis-monolith-onyx-howlite-preview.png) <br>Onyx
-</td>
-<td align="center" valign="top" >
-
 [![Apophis Monolith - Onyx - Limestone](./_gfx/apophis-monolith-onyx-limestone-preview.png)](./_gfx/apophis-monolith-onyx-limestone-preview.png)
 
 [Limestone](./_gfx/apophis-monolith-onyx-limestone-preview.png) <br>Onyx
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Monolith - Onyx - Morion](./_gfx/apophis-monolith-onyx-morion-preview.png)](./_gfx/apophis-monolith-onyx-morion-preview.png)
+
+[Morion](./_gfx/apophis-monolith-onyx-morion-preview.png) <br>Onyx
 </td>
 <td align="center" valign="top" >
 
@@ -787,9 +787,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Apophis Monolith - Onyx HCUI - Beryl](./_gfx/apophis-monolith-onyx-hcui-beryl-preview.png)](./_gfx/apophis-monolith-onyx-hcui-beryl-preview.png)
+[![Apophis Monolith - Onyx HCUI - Hearthstone](./_gfx/apophis-monolith-onyx-hcui-hearthstone-preview.png)](./_gfx/apophis-monolith-onyx-hcui-hearthstone-preview.png)
 
-[Beryl](./_gfx/apophis-monolith-onyx-hcui-beryl-preview.png) <br>Onyx HCUI
+[Hearthstone](./_gfx/apophis-monolith-onyx-hcui-hearthstone-preview.png) <br>Onyx HCUI
 
 
 <table>
@@ -808,9 +808,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td>
 <td align="center" valign="top" >
 
-[![Apophis Monolith - Onyx HCUI - Hearthstone](./_gfx/apophis-monolith-onyx-hcui-hearthstone-preview.png)](./_gfx/apophis-monolith-onyx-hcui-hearthstone-preview.png)
+[![Apophis Monolith - Onyx HCUI - Beryl](./_gfx/apophis-monolith-onyx-hcui-beryl-preview.png)](./_gfx/apophis-monolith-onyx-hcui-beryl-preview.png)
 
-[Hearthstone](./_gfx/apophis-monolith-onyx-hcui-hearthstone-preview.png) <br>Onyx HCUI
+[Beryl](./_gfx/apophis-monolith-onyx-hcui-beryl-preview.png) <br>Onyx HCUI
 </td>
 <td align="center" valign="top" >
 
@@ -983,9 +983,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Apophis Monolith - Opal HCUI - Hearthstone](./_gfx/apophis-monolith-opal-hcui-hearthstone-preview.png)](./_gfx/apophis-monolith-opal-hcui-hearthstone-preview.png)
+[![Apophis Monolith - Opal HCUI - Morion](./_gfx/apophis-monolith-opal-hcui-morion-preview.png)](./_gfx/apophis-monolith-opal-hcui-morion-preview.png)
 
-[Hearthstone](./_gfx/apophis-monolith-opal-hcui-hearthstone-preview.png) <br>Opal HCUI
+[Morion](./_gfx/apophis-monolith-opal-hcui-morion-preview.png) <br>Opal HCUI
 
 
 <table>
@@ -1010,23 +1010,23 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td>
 <td align="center" valign="top" >
 
-[![Apophis Monolith - Opal HCUI - Howlite](./_gfx/apophis-monolith-opal-hcui-howlite-preview.png)](./_gfx/apophis-monolith-opal-hcui-howlite-preview.png)
+[![Apophis Monolith - Opal HCUI - Hearthstone](./_gfx/apophis-monolith-opal-hcui-hearthstone-preview.png)](./_gfx/apophis-monolith-opal-hcui-hearthstone-preview.png)
 
-[Howlite](./_gfx/apophis-monolith-opal-hcui-howlite-preview.png) <br>Opal HCUI
+[Hearthstone](./_gfx/apophis-monolith-opal-hcui-hearthstone-preview.png) <br>Opal HCUI
 </td>
 </tr>
 <tr>
 <td align="center" valign="top" >
 
-[![Apophis Monolith - Opal HCUI - Limestone](./_gfx/apophis-monolith-opal-hcui-limestone-preview.png)](./_gfx/apophis-monolith-opal-hcui-limestone-preview.png)
+[![Apophis Monolith - Opal HCUI - Howlite](./_gfx/apophis-monolith-opal-hcui-howlite-preview.png)](./_gfx/apophis-monolith-opal-hcui-howlite-preview.png)
 
-[Limestone](./_gfx/apophis-monolith-opal-hcui-limestone-preview.png) <br>Opal HCUI
+[Howlite](./_gfx/apophis-monolith-opal-hcui-howlite-preview.png) <br>Opal HCUI
 </td>
 <td align="center" valign="top" >
 
-[![Apophis Monolith - Opal HCUI - Morion](./_gfx/apophis-monolith-opal-hcui-morion-preview.png)](./_gfx/apophis-monolith-opal-hcui-morion-preview.png)
+[![Apophis Monolith - Opal HCUI - Limestone](./_gfx/apophis-monolith-opal-hcui-limestone-preview.png)](./_gfx/apophis-monolith-opal-hcui-limestone-preview.png)
 
-[Morion](./_gfx/apophis-monolith-opal-hcui-morion-preview.png) <br>Opal HCUI
+[Limestone](./_gfx/apophis-monolith-opal-hcui-limestone-preview.png) <br>Opal HCUI
 </td>
 <td align="center" valign="top" >
 
